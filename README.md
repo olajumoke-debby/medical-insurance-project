@@ -1,3 +1,4 @@
 # Regression_Models-project
-Develop and refine linear regression models to predict cost of medical insurance and also house sales in USA.
-Several Python libraries are used in Google Colab environment to carry out these analysis.
+Develop and refine linear regression models to predict house sales in King County, USA between 2014 and 2015.
+Perform exploratory data analysis. Evaluate, refine and develop the model. 
+Perform Ridge regression for polynomial feature models.
